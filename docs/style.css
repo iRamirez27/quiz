@@ -1,0 +1,29 @@
+* {
+    background-color: #247;
+    margin: 0;
+}
+
+.heading {
+    background-color: #445;
+    /*width: 100vw;*/
+    height: 3rem;
+    color: #baf;
+    font-size: 17px;
+    
+}
+
+.instructions {
+    background-color: #7bf;
+    padding: 1rem;
+    margin: 1rem;
+    
+}
+
+.hint {
+    background-color: #9ef;
+    position: fixed;
+}
+
+.hint-containter {
+    width: 75vw;
+}
